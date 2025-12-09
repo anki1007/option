@@ -1,0 +1,8 @@
+
+streamlit>=1.39
+requests>=2.32
+plotly>=5.24
+pyotp>=2.9
+pandas>=2.2
+numpy>=1.26
+python-dateutil>=2.9
